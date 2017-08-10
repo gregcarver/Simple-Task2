@@ -1,0 +1,122 @@
+.container{
+    background-color:red;
+    height:100%;
+    width:70%;
+}
+.innercontainer1{
+    height: 200px;
+    width: 32%;
+    background-color: white;
+     margin-left: 15%; 
+    margin-top: 1em;
+    float: left;
+    margin-right: 1em;
+}
+.innercontainer2{
+    height: 200px;
+    width: 32%;
+    background-color: white;
+     margin-left: 15%; 
+    margin-top: 1em;
+    float: left;
+    margin-right: 1em;
+}
+.innercontainer3{
+    height: 200px;
+    width: 32%;
+    background-color: white;
+     margin-left: 15%; 
+    margin-top: 1em;
+    float: left;
+    margin-right: 1em;
+}.innercontainer4{
+    height: 200px;
+    width: 32%;
+    background-color: white;
+     margin-left: 15%; 
+    margin-top: 1em;
+    float: left;
+    margin-right: 1em;
+    color:red;
+}
+.innercontainer5{
+    height: 200px;
+    width: 32%;
+    background-color: white;
+     margin-left: 15%; 
+    margin-top: 1em;
+    float: left;
+    margin-right: 1em;
+}
+.innercontainer6{
+    height: 200px;
+    width: 32%;
+    background-color: white;
+     margin-left: 15%; 
+    margin-top: 1em;
+    float: left;
+    margin-right: 1em;
+    overflow:scroll;
+}
+.innercontainer7{
+    height: 200px;
+    width: 32%;
+    background-color: white;
+     margin-left: 40%; 
+    margin-top: 1em;
+    float: left;
+    margin-right: 1em;
+}
+body{
+    background-color:red;
+}
+#alertButton{
+    height:50px;
+    width:50px;
+    margin-left:50%;
+    margin-right:50%;
+}
+#nameContainer{
+    overflow:scroll;
+}
+#friendContainer{
+    overflow:scroll;
+}
+#colorText{
+    font-size:36px;
+    text-align:center;
+    margin-top:1em;
+}
+#addName{
+    margin-left:40%;
+    height:75px;
+    width:100px;
+    margin-top:3em;
+}
+#alertButton{
+    margin-left:40%;
+    height:75px;
+    width:100px;
+    margin-top:3em;
+}
+#changeFriends{
+    margin-left:40%;
+    height:75px;
+    width:100px;
+    margin-top:3em;
+}
+#addFriend{
+    margin-left:40%;
+    height:75px;
+    width:100px;
+    margin-top:3em;
+}
+#inputButton{
+    margin-left:40%;
+    height:75px;
+    width:100px;
+    margin-top:1em;
+}
+#input{
+    margin-left:35%;
+}
